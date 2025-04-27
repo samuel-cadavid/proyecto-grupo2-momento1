@@ -1,5 +1,7 @@
 # proyecto-grupo2-momento1
 
+trabajo de samuel cadavid, juan miguel sanchez y simon cuervo
+
 Rastreador de Gastos Personales
 Vamos a desarrollar una aplicación de consola para gestionar gastos personales, siguiendo los pasos solicitados.
 Momento 1
