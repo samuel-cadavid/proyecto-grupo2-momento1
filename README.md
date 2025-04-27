@@ -94,7 +94,7 @@ FUNCIÓN generarResumenMensual(mes, año)
 FIN FUNCIÓN
 
 
-3. Diagrama de clases UML: Gasto, Categoría, Reporte, Usuario.
+4. Diagrama de clases UML: Gasto, Categoría, Reporte, Usuario.
 
    gasto: tiene descripcion, monto y fecha
    categoria: tendria el nombre de "libros"
